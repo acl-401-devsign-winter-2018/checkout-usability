@@ -19,4 +19,4 @@ Include the answers to the following in your submission:
 * Form is legible and usable on mobile screens (3 points)
 * Finished product is consistent with goals outlined in strategy document (3 points)
 * Accessibility audit score 100 / 100 (2 points)
-* Clean code, idiomatic formatting (2 point)
+* Clean code, idiomatic formatting (2 points)
